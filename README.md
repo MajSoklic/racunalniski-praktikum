@@ -1,2 +1,2 @@
-# racunalniski-praktikum
+# Računalniški praktikum
 Moj prvi repozitorij.
